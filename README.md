@@ -1,6 +1,6 @@
 # F*ck around Find out - Computer Graphics edition
 
-A collection of notes by @nk2ishere while exploring 3D rendering using public materials.
+A collection of notes being gathered by @nk2ishere while exploring 3D rendering using public materials.
 
 # Materials used
 
