@@ -1,4 +1,4 @@
-# Fuck around Find out - Computer Graphics edition
+# F*ck around Find out - Computer Graphics edition
 
 A collection of notes by @nk2ishere while exploring 3D rendering using public materials.
 
